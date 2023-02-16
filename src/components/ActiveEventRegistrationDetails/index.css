@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.registered-size {
+  height: 100px;
+  width: 100px;
+}
+.status-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  text-align: center;
+}
+.status {
+  text-align: center;
+}
+.button-register {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: 0px solid;
+  outline: none;
+  border-radius: 5px;
+}
+
+.yet-to-register {
+  width: 300px;
+}

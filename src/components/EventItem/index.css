@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.event-img {
+  height: 100px;
+  width: 100px;
+}
+.button-style {
+  border: 0px solid;
+  background-color: transparent;
+  border-radius: 10px;
+}
+.event-img {
+  width: 200px;
+  height: 150px;
+}
+.event-content {
+  margin-right: 20px;
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+.name {
+  font-size: 20px;
+}
+.location {
+  font-size: 10px;
+}
